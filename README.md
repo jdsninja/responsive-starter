@@ -1,5 +1,4 @@
-#Responsive-Starter
-
+#Responsive Starter
 
 ##LESS
 
