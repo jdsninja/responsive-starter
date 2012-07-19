@@ -1,2 +1,2 @@
-responsive-starter
+Responsive-Starter
 ==================
