@@ -1,4 +1,5 @@
 #Responsive Starter
+All big project begin with small thing. Like this one.
 
 ##LESS
 
